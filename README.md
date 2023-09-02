@@ -10,7 +10,6 @@ This is a simple photo gallery webpage created using HTML and CSS Flexbox.
 - [Usage](#usage)
 - [Hosted Link](#hosted-link)
 - [Screenshot](#screenshot)
-- [License](#license)
 
 ## Introduction
 
@@ -34,8 +33,9 @@ It provides a clean and responsive layout for displaying images in a gallery for
 
 ## Hosted Link
 
-You can view the hosted version of this project by clicking [here](https://your-hosted-link.com).
+You can view the hosted version of this project by https://sanketmahadik191.github.io/Flexbox_Photo_Gallery/
 
 ## Screenshot
 
-![Screenshot of the Photo Gallery](screenshot.png)
+![image](https://github.com/sanketmahadik191/Flexbox_Photo_Gallery/assets/125791466/9ca3e2e6-907d-4104-a646-2b7c4bee380b)
+
